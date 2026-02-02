@@ -1,2 +1,0 @@
-# TripleX
-Signal
